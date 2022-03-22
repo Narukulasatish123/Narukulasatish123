@@ -1,4 +1,33 @@
-### Hi there 👋
+<!DOCTYPE>
+<html>
+  <h2 align="center"> <strong> Hi there, This is Narukula Satish👋 </strong> </h2>
+<br>
+📖 I’m currently pursuing my B-Tech 3rd year in Computer Scienece Department from SRM University, Chennai.
+
+👨🏻‍💻 I am interested in Coding, Data Science, Machine Learning.
+  <body>
+    <h2 align="center"> My Skill Set</h2>
+  <h3 align="center"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" target="_blank"  height=60 width=60>  
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" target="_blank"  height=60 width=60>  
+    <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" target="_blank"  height=60 width=60>  
+     
+  </body>  
+</html>
+<!--
+**SaiAvinash2002/SaiAvinash2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
 <!--
 **Narukulasatish123/Narukulasatish123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
